@@ -1,0 +1,24 @@
+/* Reseteo del viewport */
+html{
+
+
+    background-repeat: repeat;
+
+}
+
+*{
+
+   box-sizing: border-box;
+   box-sizing: content-box;
+
+
+}
+
+
+/* stilos body */
+
+body {
+
+    border-radius: 1.5rem 0rem 0rem;
+    background: linear-gradient(234deg, ngba (255, 125, 2, 0.72) 0%, rgba(277, 0, 0.00) 91.41%)
+}
